@@ -1,0 +1,13 @@
+# Compiled binaries & temporary build files
+*.exe
+*.pdb
+*.obj
+*.tmp
+dqs_build_*
+
+# User secrets & local caches
+vault.dat
+studio_state.json
+detectable_games_cache.json
+detectable_games_etag.txt
+.discord_quest_studio/
